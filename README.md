@@ -1,7 +1,9 @@
 # Data-Analysis-Project
-Data Analysis and Visualization using SQL, Database, and Looker Studio
 
 [Link of the Dashboard](https://lookerstudio.google.com/reporting/202efe77-ccc7-4672-8858-50eab53356ec)
+
+This project leverages SQL, Google Cloud Storage, Google Cloud MySQL Instance, and Looker Studio to perform data analysis and visualization. **SQL** was utilized for custom queries, data manipulation, and analysis tasks. Data was stored in a **Google Cloud MySQL Instance**, which was linked to a **Google Cloud Storage** bucket for seamless data ingestion. **Looker Studio** was then connected to the MySQL Instance to create dynamic and interactive visualizations, enabling insightful data representation and reporting.
+
 
 ## Dashboard 1 - Order activity
 
