@@ -1,6 +1,8 @@
 # Data-Analysis-Project
 Data Analysis and Visualization using SQL, Database, and Looker Studio
 
+[Link of the Dashboard](https://lookerstudio.google.com/reporting/202efe77-ccc7-4672-8858-50eab53356ec)
+
 ## Dashboard 1 - Order activity
 
 For this, we will need a dashboard with the following data:
